@@ -1,0 +1,24 @@
+﻿{
+    "schema":  "botmm_subscriptions_v1",
+    "subscriptions":  [
+                          {
+                              "key":  "BOTMM-TNWL-2438-SL5F",
+                              "customer":  "1",
+                              "active":  true,
+                              "expires":  "2026-05-28",
+                              "devices":  [
+                                              "*"
+                                          ]
+                          },
+                          {
+                              "key":  "BOTMM-AGXT-TV3G-AUPD",
+                              "customer":  "2",
+                              "active":  true,
+                              "expires":  "2026-05-28",
+                              "devices":  [
+                                              "*"
+                                          ]
+                          }
+                      ],
+    "updated_at":  "2026-04-28T11:16:14Z"
+}
